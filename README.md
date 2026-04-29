@@ -22,6 +22,9 @@ To analyze coronary artery disease data by:
   - Voting Classifier
   - Confusion Matrix evaluation
   Target variable: Cath
+
+![Supervised](assets/supervised.png)
+
 ## Unsupervised Learning (Clustering)
   - Manual implementation of K-Means algorithm
   - Centroid initialization
@@ -31,6 +34,9 @@ To analyze coronary artery disease data by:
   - Clustering using:
   - 1 feature (Age)
   - 2 features (Age & BMI)
+
+![Unsupervised](assets/unsuperised.png)
+
 
 # Skills Demonstrated
 - Classification Modeling
