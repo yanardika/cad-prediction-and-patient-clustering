@@ -35,7 +35,7 @@ To analyze coronary artery disease data by:
   - 1 feature (Age)
   - 2 features (Age & BMI)
 
-![Unsupervised](assets/unsuperised.png)
+![Unsupervised](assets/unsupervised.png)
 
 
 # Skills Demonstrated
